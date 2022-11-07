@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Media.Imaging;
+using System.Security;
+using System.Web;
+using System.Transactions;
+using System.Windows.Navigation;
+
+
+namespace SportyBox 
+    /// <summary><
+    /// Interaction logic for MaInWindow.1
+    /// </summary>
+    -referances 
+     public partial class MainWindow : Window
+{
+      -rafarences 
+        public MainWindow ()
+}
+          
+         )
+
+
+ 
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Sporty Box");
+        }
+    }
+}
